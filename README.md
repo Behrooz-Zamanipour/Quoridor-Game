@@ -1,9 +1,9 @@
 ## Quoridor Game
-This is a **team-based** C++ console game project developed collaboratively by **Behrooz Zamanipour & Amir Zarrabinia**. The game features two players (**P** and **R**) who strategically place walls and move across a grid. The objective is to reach the opposite side of the board first while blocking the opponent’s path.
+This is a **team-based** C++ console game project developed collaboratively by **Behrooz Zamanipour & Amirreza Zarrabinia**. The game features two players (**P** and **R**) who strategically place walls and move across a grid. The objective is to reach the opposite side of the board first while blocking the opponent’s path.
 
 ## Team Members
 - **Behrooz Zamanipour** – Core game logic & movement mechanics
-- **Amir Zarrabinia** – Wall placement system & game UI
+- **Amirreza Zarrabinia** – Wall placement system & game UI
 
 ## How to Play
 
